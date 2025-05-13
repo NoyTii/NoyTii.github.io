@@ -6,6 +6,8 @@ date:   2025-05-12 10:00:11 +0100
 
 Every day in every city, traffic accidents impact on our lives. This project analyzes detailed data from the [NYC Open Data webpage](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data), covering motor vehicle collisions in New York City from 2013 to 2024.  By studying the datasets’ patterns, we aim to uncover insights that can help reduce accidents and save lives.
 
+A link to the full notebook and dataset can be found [here (zip file)](/assets/FinalProject/Final_notebook.zip)
+
 ### NYC Vision Zero
 
 Our analysis supports the [Vision Zero initiative](https://en.wikipedia.org/wiki/Vision_Zero_(New_York_City)#:~:text=Vision%20Zero%20is%20a%20program,York%20City%20streets%20by%202024.), a citywide effort launched in 2014 with the bold goal of eliminating all traffic-related deaths and serious injuries. With limited resources like patrol officers and traffic cameras, it's important to focus efforts where they’re needed most. This analysis helps answer questions such as: Are crashes more likely at certain times of day or in specific neighborhoods? What are the most common causes of severe accidents? By addressing these questions, we aim to provide practical, data-driven recommendations to help city planners, law enforcement, and public safety officials make New York City streets safer for everyone.
